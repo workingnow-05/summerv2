@@ -253,7 +253,7 @@ export default function App() {
                 <div className="program-actions">
                   <button
                     type="button"
-                    className={`btn btn-primary btn-cta-${program.cta}`}
+                    className="btn btn-primary"
                     onClick={() => openDrawer(program.id)}
                   >
                     View Program Details{' '}
@@ -769,7 +769,7 @@ export default function App() {
             <div className="drawer-footer">
               <button
                 type="button"
-                className={`btn btn-primary btn-cta-${activeProgram.cta}`}
+                className="btn btn-primary"
                 onClick={markInterestFromDrawer}
               >
                 Mark your interest <ArrowRight size={16} />

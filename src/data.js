@@ -57,7 +57,6 @@ export const PROGRAMS = [
     drawerImage: '/photos/prog-usd-knauss.jpg',
     caption: 'Knauss School of Business courtyard, University of San Diego',
     accent: 'sunset',
-    cta: 'blue',
     media: [
       {
         type: 'pair',
@@ -123,7 +122,6 @@ export const PROGRAMS = [
     drawerImage: '/photos/prog-usd-eng.jpg',
     caption: 'The Immaculata overlooking Colachis Plaza, USD',
     accent: 'blue',
-    cta: 'blue',
     media: [
       {
         type: 'pair',
@@ -192,7 +190,6 @@ export const PROGRAMS = [
     drawerImage: '/photos/prog-tulane-goldring.jpg',
     caption: 'Tulane and Loyola campuses with the New Orleans skyline beyond',
     accent: 'green',
-    cta: 'green',
     media: [
       {
         type: 'pair',
